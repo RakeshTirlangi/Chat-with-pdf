@@ -20,8 +20,6 @@
 - **Streamlit/Flask** (or other front-end tech): For the seamless user interface.  
 - **Vector Databases**: To keep track of what your PDF is really trying to say.  
 
-## 🖥️ Demo  
-Watch the magic in action: [Demo Video](#).  
 
 ## 😂 Why This Exists  
 We believe PDFs shouldn’t just sit silently on your hard drive. They should talk back (politely, of course). Whether it’s for lazy folks like us or the curious minds who love efficiency, this app is your new productivity hack. And yes, it might be more responsive than your crush.  

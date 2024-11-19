@@ -1,0 +1,5 @@
+langchain
+pdfminer.six
+python-dotenv
+streamlit
+google.generativeai

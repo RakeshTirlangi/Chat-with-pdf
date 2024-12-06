@@ -19,13 +19,13 @@ ChatPDF is a Retrieval-Augmented Generation (RAG) system that enables advanced, 
 Here’s how the app looks in action:  
 
 ### Upload a PDF  
-![Upload PDF](cp1.png)  
+<img src="cp1.png" alt="Upload PDF" width="300">  
 
 ### Ask Questions  
-![Ask Questions](cp2.png)  
+<img src="cp2.png" alt="Ask Questions" width="300">  
 
 ### Get Answers  
-![Get Answers](cp3.png)  
+<img src="cp3.png" alt="Get Answers" width="300">  
 
 ## Technical Architecture
 1. PDF Document Processing
@@ -38,18 +38,3 @@ Here’s how the app looks in action:
 git clone https://github.com/RakeshTirlangi/ChatPDF.git
 cd ChatPDF
 pip install -r requirements.txt
-```
-
-## Example Usage
-```python
-from chatpdf import DocumentInteraction
-
-pdf_handler = DocumentInteraction('research_paper.pdf')
-response = pdf_handler.ask_question("What is the main conclusion?")
-print(response)
-```
-
-## Project Objectives
-- Democratize complex document understanding
-- Provide instant, contextually relevant answers
-- Reduce manual document research time

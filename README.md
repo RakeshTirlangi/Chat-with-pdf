@@ -22,9 +22,9 @@ Here’s how the app looks in action:
 Here’s how the app looks in action:  
 
 <div style="display: flex; gap: 10px;">
-  <img src="cp1.png" alt="Upload PDF" width="250">
-  <img src="cp2.png" alt="Ask Questions" width="250">
-  <img src="cp3.png" alt="Get Answers" width="250">
+  <img src="cp1.png" alt="Upload PDF" width="300">
+  <img src="cp2.png" alt="Ask Questions" width="300">
+  <img src="cp3.png" alt="Get Answers" width="300">
 </div>
 ## Technical Architecture
 1. PDF Document Processing

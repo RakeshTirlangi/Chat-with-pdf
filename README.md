@@ -18,15 +18,14 @@ ChatPDF is a Retrieval-Augmented Generation (RAG) system that enables advanced, 
 ## 🎥 Demo  
 Here’s how the app looks in action:  
 
-### Upload a PDF  
-<img src="cp1.png" alt="Upload PDF" width="300">  
+## 🎥 Demo  
+Here’s how the app looks in action:  
 
-### Ask Questions  
-<img src="cp2.png" alt="Ask Questions" width="300">  
-
-### Get Answers  
-<img src="cp3.png" alt="Get Answers" width="300">  
-
+<div style="display: flex; gap: 10px;">
+  <img src="cp1.png" alt="Upload PDF" width="250">
+  <img src="cp2.png" alt="Ask Questions" width="250">
+  <img src="cp3.png" alt="Get Answers" width="250">
+</div>
 ## Technical Architecture
 1. PDF Document Processing
 2. Semantic Chunking
